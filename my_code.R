@@ -16,3 +16,5 @@ logi [1:3] FALSE FALSE FALSE
 $ weight     : num  2.1 5.3 3.3
 $ like_string: num  1 0 1
 ># I would like to practice
+># will there be a conflict?
+
