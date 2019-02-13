@@ -15,3 +15,4 @@ logi [1:3] FALSE FALSE FALSE
   $ coat       : Factor w/ 3 levels "black","calio",..: 2 1 3
 $ weight     : num  2.1 5.3 3.3
 $ like_string: num  1 0 1
+># I would like to practice
